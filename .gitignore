@@ -12,3 +12,12 @@ Thumbs.db
 .vscode/
 .idea/
 *.zip
+
+# Build artifacts
+/build/
+*.rbz
+pkg/
+
+# Bundle
+.bundle/
+vendor/bundle/
