@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (13.0.6)
+    rubyzip (2.3.2)
+
+PLATFORMS
+  ruby
+  x64-mingw-ucrt
+
+DEPENDENCIES
+  rake (~> 13.0)
+  rubyzip (~> 2.3)
+
+BUNDLED WITH
+   2.4.22
